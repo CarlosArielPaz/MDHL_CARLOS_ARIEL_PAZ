@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 2em auto;
+  width: 80%;
+}
+
+header > h1 {
+  margin-bottom: 1.5em;
+  padding-left: 0.75em;
+  border-left: 9px solid lightseagreen;
+  font-size: 2.5em;
+}
+
+header > div {
+  position: relative;
+}
+
+header > div > nav {
+  position: absolute;
+  top: -0.5em;
+  left: 0.5em;
+}
+
+header > div > nav > a {
+  margin-left: 0.75em;
+  padding: 0.5em 1.75em;
+  border: 3px solid white;
+  border-radius: 50px;
+  background-color: slategrey;
+  color: #f0f0f0;
+  font-size: 1.15em;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.25s;
+}
+
+header > div > nav > a.link-active,
+header > div > nav > a:hover {
+  background-color: lightseagreen;
+  color: #212121;
+}
+
+header > h2 {
+  margin: -1em 0 0 0;
+  padding: 0.25em 0;
+  background-color: lightseagreen;
+  border-radius: 10px;
+  color: #ffffffc0;
+  font-size: 2em;
+  text-align: center;
+  transition: all 1s;
+  transform: rotate(-2.5deg);
+}
+
+main {
+  margin-top: 1em;
+}
+
+main > div {
+  display: inline-block;
+  width: 200px;
+}
+
+main > div:last-child {
+  margin-left: 50px;
+  width: calc(100% - 255px);
+  vertical-align: top;
+}
+
+dt {
+  margin-top: 2em;
+  padding-left: .75em;
+  border-left: 3px solid lightseagreen;
+  font-size: 1.25em;
+}
+
+dd {
+  margin-top: 0.5em;
+  text-indent: 1em;
+}
