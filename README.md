@@ -4,6 +4,8 @@
 
 ### **Task-1**
 
+- 2023-02-13 14:50 GMT-3&emsp;#Commit-9&emsp;➜&emsp;Task-2: Improvements and changes
+
 - 2023-02-13 14:45 GMT-3&emsp;#Commit-8&emsp;➜&emsp;Task-2: Create branch task-2
 
 - 2023-02-12 16:15 GMT-3&emsp;#Commit-7&emsp;➜&emsp;Main: Merge with branch task-1
