@@ -1,27 +1,33 @@
 # **Argentina Programa 4.0 + MindHub**
 
-## **Development**
+>## Development MDHL
 
-### **Task-2**
+> **Task-2**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-2](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-2)
 
-- 2023-02-13 14:55 GMT-3&emsp;#Commit-10&emsp;➜&emsp;Task-2: Improvements
+- 2023-02-14 18:05 GMT-3&emsp;#Commit-13&emsp;➜&emsp;task-2 : Change to README.md
 
-- 2023-02-13 14:44 GMT-3&emsp;#Commit-09&emsp;➜&emsp;Task-2: Improvements and changes
+- 2023-02-13 14:56 GMT-3&emsp;#Commit-12&emsp;➜&emsp;[task-2 : Improvements](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/ddc7a538e5557512fb5e781cbfd2f9140df15ff1)
 
-- 2023-02-13 14:40 GMT-3&emsp;#Commit-08&emsp;➜&emsp;Task-2: Create branch task-2
+- 2023-02-13 14:55 GMT-3&emsp;#Commit-11&emsp;➜&emsp;[task-2 : Improvements](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/225ebfd8905a188f8334a48cb7a4cf5f3d3074da)
 
-### **Task-1**
+- 2023-02-13 14:44 GMT-3&emsp;#Commit-10&emsp;➜&emsp;[task-2 : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/ae0e74dfdbf66ce1b754da0acf02e1e2f33efaaa)
 
-- 2023-02-12 16:15 GMT-3&emsp;#Commit-07&emsp;➜&emsp;Main: Merge with branch task-1
+- 2023-02-13 14:40 GMT-3&emsp;#Commit-09&emsp;➜&emsp;[task-2 : Create branch task-2](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/248e4194910f67964f4d52fa7d04c315dc5c8897)
 
-- 2023-02-12 13:30 GMT-3&emsp;#Commit-06&emsp;➜&emsp;Task-1: Improvements
+> **Task-1**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-1](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-1)
 
-- 2023-02-12 13:18 GMT-3&emsp;#Commit-05&emsp;➜&emsp;Task-1: Create branch task-1
+- 2023-02-12 16:17 GMT-3&emsp;#Commit-08&emsp;➜&emsp;[main : Merge with branch task-1](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/af11b20354ef1de236b12774756c1cae4d29e769)
 
-- 2023-02-12 12:12 GMT-3&emsp;#Commit-04&emsp;➜&emsp;Task-1: Improvements
+- 2023-02-12 15:59 GMT-3&emsp;#Commit-07&emsp;➜&emsp;[main : Delete README.md](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/106a757b9c11ece080b66334b18465fe8558aa84)
 
-- 2023-02-10 04:44 GMT-3&emsp;#Commit-03&emsp;➜&emsp;Task-1: Improvements and changes
+- 2023-02-12 13:30 GMT-3&emsp;#Commit-06&emsp;➜&emsp;[task-1 : Improvements](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/5e90611ae92934498ade8aca51a6ceaf8aec2142)
 
-- 2023-02-09 21:15 GMT-3&emsp;#Commit-02&emsp;➜&emsp;Task-1: Improvements and changes
+- 2023-02-12 13:18 GMT-3&emsp;#Commit-05&emsp;➜&emsp;[task-1 : Create branch task-1](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/666f4ec103a12123b43df1950de43daa0f93b38a)
 
-- 2023-02-09 13:48 GMT-3&emsp;#Commit-01&emsp;➜&emsp;Task-1: Startup
+- 2023-02-12 12:12 GMT-3&emsp;#Commit-04&emsp;➜&emsp;[main : Improvements](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/f09f3ddbb03b8853bbd28f5feb436f702f7e7857)
+
+- 2023-02-10 04:44 GMT-3&emsp;#Commit-03&emsp;➜&emsp;[main : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/3423030afe5d4933fe4352b23455ac2042dcf64e)
+
+- 2023-02-09 21:15 GMT-3&emsp;#Commit-02&emsp;➜&emsp;[main : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/934e34eef99e98c0656291177d2244f9b536dbeb)
+
+- 2023-02-09 13:48 GMT-3&emsp;#Commit-01&emsp;➜&emsp;[main : Startup](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/866dcd27e41bd974112537830bad46a77d97fc07)
