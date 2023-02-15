@@ -1,0 +1,45 @@
+main {
+  padding-left: 2em;
+}
+
+main > header {
+  text-align: center;
+}
+
+main > header > h3 {
+  font-size: 1.75em;
+}
+
+main > section > article {
+  margin-top: 2.5em;
+  padding-left: 1.5em;
+  border-left: 6px solid #20b2aa3f;
+}
+
+main > section > article > h4 {
+  font-size: 1.25em;
+}
+
+main > section > article > p {
+  margin-top: 1em;
+}
+
+main > section > article > ol {
+  margin-left: 1em;
+}
+
+main > section > article > ol > li {
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+main > section > article > ol > li > p {
+  margin-top: 0.5em;
+  font-weight: normal;
+}
+
+main > section > article > ol > li > ol {
+  margin: 0.5em 0 0 1em;
+  list-style-type: lower-latin;
+  font-weight: normal;
+}

@@ -1,0 +1,18 @@
+main {
+  padding-left: 2em;
+}
+
+main article {
+  padding-left: 1.5em;
+  border-left: 6px solid #20b2aa3f;
+}
+
+main dt {
+  margin-top: 2em;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+main dd {
+  margin-top: 0.5em;
+}
