@@ -4,7 +4,9 @@
 
 > **Task-3**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-3](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-3)
 
-- 2023-02-15 14:55 GMT-3&emsp;#Commit-17&emsp;➜&emsp;main : Merge with branch task-3
+- 2023-02-15 15:05 GMT-3&emsp;#Commit-18&emsp;➜&emsp;main : Merge with branch task-3
+
+- 2023-02-15 14:55 GMT-3&emsp;#Commit-17&emsp;➜&emsp;[task-3 : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/23d1bb6e01e33533ef4a09591dc270125bd639c7)
 
 - 2023-02-15 14:41 GMT-3&emsp;#Commit-16&emsp;➜&emsp;[task-3 : Upload development](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/e001d22271a32fc02e3b30dc13a7dfd089c9f92d)
 
