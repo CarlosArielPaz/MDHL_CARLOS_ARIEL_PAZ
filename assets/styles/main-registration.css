@@ -1,0 +1,111 @@
+main {
+  padding: 0 2em;
+}
+
+main > form > fieldset {
+  margin: 2em 0 2em 2em;
+  padding: 0.5em 2em 2em 2em;
+  border: 1px solid #20b2aa3f;
+  border-radius: 20px;
+}
+
+main > form > fieldset > legend {
+  color: #20b2aa;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+main > form > fieldset > legend > img {
+  width: 40px;
+  height: 40px;
+  margin-right: 0.5em;
+  vertical-align: bottom;
+}
+
+main > form > fieldset > label {
+  display: block;
+  margin-top: 2em;
+  padding-left: 0.5em;
+  color: #424242;
+}
+
+main > form > fieldset .position {
+  margin-top: 2em;
+  padding-left: 0.5em;
+  border: none;
+  color: #424242;
+}
+
+main > form > fieldset .position > div {
+  display: block;
+}
+main > form > fieldset .position > div > label {
+  display: inline-block;
+  margin-top: 0.75em;
+  padding-left: 0.5em;
+  color: #000;
+  font-size: 1.25em;
+}
+
+main > form > fieldset > input,
+main > form > fieldset > select {
+  display: block;
+  margin-top: 0.25em;
+  padding: 0.5em 1em;
+  box-shadow: 0 10px 5px 0 #20b2aa40;
+  border: 1px solid #20b2aa80;
+  background-color: #fff;
+  border-radius: 10px;
+  font-size: 1.25em;
+}
+
+main > form > fieldset > input,
+main > form > fieldset > select {
+  width: 50%;
+}
+
+main > form > fieldset > input:hover,
+main > form > fieldset > select:hover {
+  border: 1px solid #20b2aa;
+}
+
+main > form > fieldset > input:focus,
+main > form > fieldset > select:focus {
+  border: 1px solid #20b2aa !important;
+}
+
+main article {
+  padding-left: 1.5em;
+  border-left: 6px solid #20b2aa3f;
+}
+
+main > form > dl > article > dt {
+  margin-top: 2em;
+  color: #424242;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+main > form > dl > article > dd {
+  margin-top: 0.5em;
+}
+
+main > form > input[type="submit"] {
+  display: block;
+  margin: 2em auto 0 auto;
+  padding: 0.75em 2em;
+  box-shadow: 0 10px 5px 0 #20b2aa40;
+  border: none;
+  border-radius: 10px;
+  background-color: #20b2aa;
+  color: #fff;
+  font-size: 1.25em;
+  font-weight: bold;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+main > form > input[type="submit"]:hover {
+  box-shadow: 0 0 15px 0 #20b2aa;
+  transform: scale(1.25);
+}

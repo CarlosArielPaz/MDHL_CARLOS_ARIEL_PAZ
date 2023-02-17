@@ -1,9 +1,10 @@
 main {
-  padding-left: 2em;
+  padding: 0 2em;
 }
 
 main > header {
   text-align: center;
+  color: #424242;
 }
 
 main > header > h3 {
@@ -17,6 +18,7 @@ main > section > article {
 }
 
 main > section > article > h4 {
+  color: #424242;
   font-size: 1.25em;
 }
 

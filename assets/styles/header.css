@@ -5,6 +5,15 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 body {
   margin: 2.5em auto 5em auto;
   width: 80%;
@@ -12,7 +21,7 @@ body {
 
 body > header {
   position: relative;
-  margin-bottom: 8em;
+  margin-bottom: 9em;
 }
 
 body > header > h1 {
@@ -20,8 +29,8 @@ body > header > h1 {
   padding: 0 0 0.5em 0.5em;
   color: #f8e12e;
   font-size: 2.75em;
-  text-shadow: 0 -2px 4px #c64832, 2px 0 4px #c64832, 0 2px 4px #c64832,
-    -2px 0 4px #c64832;
+  text-shadow: 0 -2px 3px #c64832, 2px 0 3px #c64832, 0 2px 3px #c64832,
+    -2px 0 3px #c64832;
 }
 
 body > header > div:nth-child(2) {
@@ -36,11 +45,12 @@ body > header > div:nth-child(2) > nav {
 }
 
 body > header > div:nth-child(2) > nav > a {
-  margin-left: 0.75em;
+  position: relative;
+  margin-left: -1em;
   padding: 0.5em 1.5em;
   box-shadow: 0 0 5px 0 #708090;
   border: 3px solid #ffffff40;
-  border-radius: 50px;
+  border-radius: 50px 15px;
   background-color: #708090;
   color: #f0f0f0;
   font-size: 1.15em;
@@ -55,6 +65,11 @@ body > header > div:nth-child(2) > nav > a:hover {
   border: 3px solid #ffffffc0;
   background-color: #20b2aa;
   color: #fff;
+  z-index: 2;
+}
+
+body > header > div:nth-child(2) > nav > a:hover {
+  z-index: 3;
 }
 
 body > header > div:nth-child(2) > figure > img {
@@ -78,7 +93,7 @@ body > header > h2 {
 body > header > div:nth-child(4) > figure > img {
   position: absolute;
   left: 10px;
-  bottom: -100px;
+  bottom: -115px;
   transform: rotate(-2.5deg);
   z-index: 2;
 }
