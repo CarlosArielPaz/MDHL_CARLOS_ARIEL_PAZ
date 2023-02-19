@@ -2,9 +2,25 @@
 
 > ## Project Mighty Ducks Hockey League (MDHL)
 
+> ### Access to test beta Web
+
+- [https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/gh-pages](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/gh-pages)
+
+> ### Development
+
 > **Main**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[tags](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tags)
 
-- 2023-02-19 15:30 GMT-3&emsp;#Commit-24&emsp;➜&emsp;[tag : v1.0.0](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/releases/tag/v1.0.0)
+- 2023-02-19 18:10 GMT-3&emsp;#Commit-27&emsp;➜&emsp;main : Improvements
+
+> **GH-Pages**&emsp;➜&emsp;Branch involved&emsp;[gh-pages](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/gh-pages)
+
+- 2023-02-19 17:30 GMT-3&emsp;#Commit-26&emsp;➜&emsp;[gh-pages : Upload v1.0.0](https://carlosarielpaz.github.io/MDHL_Carlos_Ariel_Paz)
+
+> **Main**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[tags](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tags)
+
+- 2023-02-19 17:10 GMT-3&emsp;#Commit-25&emsp;➜&emsp;[version : v1.0.0](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/releases/tag/v1.0.0)
+
+- 2023-02-19 15:30 GMT-3&emsp;#Commit-24&emsp;➜&emsp;[main : Improvements](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/89661f78e50fe974db94564851a10b6047acabbd)
 
 - 2023-02-19 14:30 GMT-3&emsp;#Commit-23&emsp;➜&emsp;[main : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/8e05446a26a38c79aa4a86455e3931bef0a0e52d)
 
