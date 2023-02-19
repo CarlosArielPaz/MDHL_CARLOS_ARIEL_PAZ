@@ -2,9 +2,15 @@
 
 > ## Project Mighty Ducks Hockey League (MDHL)
 
-> **Task-4**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-4](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-4)
+> **Main**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[tags](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tags)
+
+- 2023-02-19 15:30 GMT-3&emsp;#Commit-24&emsp;➜&emsp;tag : v1.0.0
+
+- 2023-02-19 14:30 GMT-3&emsp;#Commit-23&emsp;➜&emsp;[main : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/8e05446a26a38c79aa4a86455e3931bef0a0e52d)
 
 - 2023-02-19 01:05 GMT-3&emsp;#Commit-22&emsp;➜&emsp;[main : Improvements](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/bbd3ad1d8be4124688edc3aa86d7732fea788218)
+
+> **Task-4**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-4](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-4)
 
 - 2023-02-17 15:07 GMT-3&emsp;#Commit-21&emsp;➜&emsp;[main : Merge with branch task-4](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/e366ac4bc063d204a2c2f0b861e0953299c229f6)
 
@@ -12,7 +18,7 @@
 
 - 2023-02-15 19:20 GMT-3&emsp;#Commit-19&emsp;➜&emsp;[task-4 : Create branch](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/f011b4d10f3ca88307141f5822e721128db4509b)
 
-> **Task-3**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-3](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-3)
+> **Task-3**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-3](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-3)
 
 - 2023-02-15 15:05 GMT-3&emsp;#Commit-18&emsp;➜&emsp;[main : Merge with branch task-3](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/e783ef4392053feb7869eea901f19d25e68dd5fb)
 
@@ -22,7 +28,7 @@
 
 - 2023-02-14 19:09 GMT-3&emsp;#Commit-15&emsp;➜&emsp;[task-3 : Create branch](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/e834f48bbaf0b4155716d9346eac55ab91bff231)
 
-> **Task-2**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-2](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-2)
+> **Task-2**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-2](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-2)
 
 - 2023-02-14 18:25 GMT-3&emsp;#Commit-14&emsp;➜&emsp;[main : Merge with branch task-2](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/f7e19cc7742e99f083953a765393fa6bd22d1c48)
 
@@ -36,7 +42,7 @@
 
 - 2023-02-13 14:40 GMT-3&emsp;#Commit-09&emsp;➜&emsp;[task-2 : Create branch](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/248e4194910f67964f4d52fa7d04c315dc5c8897)
 
-> **Task-1**&emsp;➜&emsp;Branches involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-1](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-1)
+> **Task-1**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[task-1](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/task-1)
 
 - 2023-02-12 16:17 GMT-3&emsp;#Commit-08&emsp;➜&emsp;[main : Merge with branch task-1](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/af11b20354ef1de236b12774756c1cae4d29e769)
 
