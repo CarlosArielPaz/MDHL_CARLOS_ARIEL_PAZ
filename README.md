@@ -4,7 +4,7 @@
 
 > **Main**&emsp;➜&emsp;Branches and tags involved&emsp;[main](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/main)&emsp;[tags](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tags)
 
-- 2023-02-19 15:30 GMT-3&emsp;#Commit-24&emsp;➜&emsp;tag : v1.0.0
+- 2023-02-19 15:30 GMT-3&emsp;#Commit-24&emsp;➜&emsp;[tag : v1.0.0](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/releases/tag/v1.0.0)
 
 - 2023-02-19 14:30 GMT-3&emsp;#Commit-23&emsp;➜&emsp;[main : Improvements and changes](https://github.com/CarlosArielPaz/MDHL_Carlos_Ariel_Paz/tree/8e05446a26a38c79aa4a86455e3931bef0a0e52d)
 
