@@ -14,7 +14,7 @@ main > header > h3 {
 main > section > article {
   margin-top: 2.5em;
   padding-left: 1.5em;
-  border-left: 6px solid #20b2aa3f;
+  border-left: 6px solid var(--color-primary-50);
 }
 
 main > section > article > h4 {

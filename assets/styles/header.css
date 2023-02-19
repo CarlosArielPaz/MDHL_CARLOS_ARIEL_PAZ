@@ -1,3 +1,10 @@
+:root {
+  --color-primary: #20b2aa;
+  --color-primary-25: #20b2aa40;
+  --color-primary-50: #20b2aa80;
+  --color-primary-75: #20b2aac0;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -61,9 +68,9 @@ body > header > div:nth-child(2) > nav > a {
 
 body > header > div:nth-child(2) > nav > a.link-active,
 body > header > div:nth-child(2) > nav > a:hover {
-  box-shadow: 0 0 5px 0 #20b2aa;
+  box-shadow: 0 0 5px 0 var(--color-primary);
   border: 3px solid #ffffffc0;
-  background-color: #20b2aa;
+  background-color: var(--color-primary);
   color: #fff;
   z-index: 2;
 }
@@ -80,9 +87,9 @@ body > header > div:nth-child(2) > figure > img {
 body > header > h2 {
   margin: -1em 0 0 0;
   padding: 0.5em 0 0.35em 0;
-  box-shadow: 0 10px 5px 0 #20b2aa40;
+  box-shadow: 0 10px 5px 0 var(--color-primary-25);
   border-radius: 0 0 20px 20px;
-  background-color: #20b2aa;
+  background-color: var(--color-primary);
   color: #ffffffc0;
   font-size: 2em;
   text-align: center;
