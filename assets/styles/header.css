@@ -36,8 +36,7 @@ body > header > h1 {
   padding: 0 0 0.5em 0.5em;
   color: #f8e12e;
   font-size: 2.75em;
-  text-shadow: 0 -2px 3px #c64832, 2px 0 3px #c64832, 0 2px 3px #c64832,
-    -2px 0 3px #c64832;
+  text-shadow: 0 -2px 3px #c64832, 2px 0 3px #c64832, 0 2px 3px #c64832, -2px 0 3px #c64832;
 }
 
 body > header > div:nth-child(2) {
